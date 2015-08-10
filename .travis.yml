@@ -20,7 +20,7 @@ before_install:
 script:
 - gulp check
 - gulp compile
-#- gulp test:e2e
+- gulp test:e2e
 
 cache:
   directories:
