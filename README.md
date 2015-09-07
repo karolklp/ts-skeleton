@@ -8,6 +8,15 @@ unit and e2e test samples and most needed automation tasks with gulp.
 
 The only known issue it has is that there is no working TypeScript 1.5 preprocessor for karma. And because of that you need to stop karma server after source change and before rerun tests in IDE such as WebStorm. 
 
+### Example
+-------
+Example contains simple implementation of Angular: 
+* controller 
+* service
+* directive
+* ui router
+* toastr
+
 ### Technology Stack
 -------
 * TypeScript 
@@ -18,7 +27,7 @@ The only known issue it has is that there is no working TypeScript 1.5 preproces
 * Sinonjs
 * Protractor
 * Gulp 
-* Angular 1.x (animate, cookies, messages, resource, sanitize, toastr, translate, ui-router, ui-bootstrap)
+* Angular 1.x
 * Bootstrap from Twitter
 
 ### Requirements
